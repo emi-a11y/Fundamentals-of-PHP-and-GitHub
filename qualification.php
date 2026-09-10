@@ -5,7 +5,7 @@ print "Welcome to PHP";
 
 echo "<h1>Student Information</h1>";
 
-$studentName = "Jeremi Joshua M. Alon";
+$studentName = "Juan Dela Cruz";
 $age = 19;
 $grade = 82;
 $enrolled = true;
